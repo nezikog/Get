@@ -20,3 +20,5 @@ butt.addEventListener('click', async () => {
     console.log(await get.getOnEmail())
 
 })
+
+alert("hello")
